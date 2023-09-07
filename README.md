@@ -1,4 +1,4 @@
-https://blog.openlibrary.org/files/2023/04/cropped-cropped-openlibrary-header.png
+<img src="https://blog.openlibrary.org/files/2023/04/cropped-cropped-openlibrary-header.png" alt="404">
 
 # OpenLibrary
 This is my biggest library that was my online book collection of my clg
