@@ -14,4 +14,4 @@ please don't fork or copy this books
 Library opeing : 11-11-2023 <br>
 Last Update On : 28-1-2024 <br>
 
-<p style="border:2px solid white;">Regular Update Time : 12:45 IST
+<p style="border:2px solid white;">Regular Update Time : 12:45 IST </p>
