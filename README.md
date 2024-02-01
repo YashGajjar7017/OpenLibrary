@@ -12,6 +12,6 @@ please don't fork or copy this books
 
 <hr>
 Library opeing : 11-11-2023 <br>
-Last Update On : 28-1-2024 <br><hr>
+Last Update On : 1-2-2024 <br><hr>
 
 <div style="border:2px solid white;">Regular Update Time : 12:45 IST </div>
