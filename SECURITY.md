@@ -8,9 +8,17 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 5.0.x   | :white_check_mark: |
+| 4.0.9   | :white_check_mark: |
+| 4.0.8   | :x:                |
+| 4.0.7   | :white_check_mark: |
+| 4.0.6   | :x:                |
+| 4.0.5.2 | :white_check_mark: |
+| 4.0.4   | :x:                |
+| 4.0.3   | :white_check_mark: |
+| 4.0.2   | :white_check_mark: |
+| 4.0.1   | :white_check_mark: |
+| 4.0.0   | :x:                |
 
 ## Reporting a Vulnerability
 
