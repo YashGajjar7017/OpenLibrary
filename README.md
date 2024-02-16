@@ -12,6 +12,14 @@ please don't fork or copy this books
 
 <h3> ALSO THIS PROJECT IS OPEN FOR SPONSERS, SO PLEASE TRY ONE ON ME THEN YOU CAME AGAIN & AGAIN</h3>
 <hr>
+Que 1 : how to read '.epub' file?
+ans : for windows, download 'icecream ebook reader'
+
+Que 2 : Is this project open for sponsers
+ans : Yes, anyone can go for it
+<hr>
+
+<hr>
 Library opeing : 11-11-2023 <br>
 Last Update On : on Regular bases in month of feb only <br><hr>
 
