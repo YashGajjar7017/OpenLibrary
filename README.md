@@ -10,7 +10,8 @@ please don't copy my project! it's take hour of hours to find this books
 please don't fork or copy this books
 #books #CodingWithYash
 
-<h3> ALSO THIS PROJECT IS OPEN FOR SPONSERS, SO PLEASE TRY ONE ON ME THEN YOU CAME AGAIN & AGAIN</h3>
+ALSO THIS PROJECT IS OPEN FOR SPONSERS, SO PLEASE TRY ONE ON ME THEN YOU CAME AGAIN & AGAIN
+<h3>More Then 500+ books in this library</h3>
 <hr>
 Que 1 : how to read '.epub' file? <br>
 ans : for windows, download 'icecream ebook reader' <br><br>
