@@ -20,7 +20,7 @@ Que 2 : Is this project open for sponsers <br>
 ans : Yes, anyone can go for it <br>
 <hr>
 
-<img src="https://github.com/YashGajjar7017/OpenLibrary/blob/main/books.png" height="25px" witdh="25px">Get Direct Search any books here : <a href="https://github.com/YashGajjar7017/OpenLibrary/">Search</a> Your books here
+<img style="margin-top:2%;" src="https://github.com/YashGajjar7017/OpenLibrary/blob/main/books.png" height="35px" witdh="35px">Get Direct Search any books here : <a href="https://github.com/YashGajjar7017/OpenLibrary/">Search</a> Your books here
 <hr>
 
 Library opeing : 11-11-2023 <br>
