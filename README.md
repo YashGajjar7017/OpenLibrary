@@ -27,8 +27,8 @@ Get Direct Search any books here : <a href="https://github.com/YashGajjar7017/Op
 <hr>
 
 More about this repo :
-|   Date   |  update  | Size |
-| -------- | -------- | -----|
+|   Date   |  Update  | Size | Attempt |
+| -------- | -------- | -----| ------- |
 | 11-11-23 | update-1 | 12kb |
 | 15-11-23 | update-2 | 100Mb|
 | 30-11-23 | update-3 | 1GB  |
