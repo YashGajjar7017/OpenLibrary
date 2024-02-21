@@ -18,9 +18,11 @@ ans : for windows, download 'icecream ebook reader' <br><br>
 
 Que 2 : Is this project open for sponsers <br>
 ans : Yes, anyone can go for it <br>
-<hr><br>
+<hr>
+
 Get Direct Search any books here : <a href="https://github.com/YashGajjar7017/OpenLibrary/">Search</a> Your books here
 <hr>
+
 Library opeing : 11-11-2023 <br>
 Last Update On : on Regular bases in month of feb only <br><hr>
 
