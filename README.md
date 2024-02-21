@@ -26,6 +26,16 @@ ans : <a href="/">Drive link</a> <br>
 Get Direct Search any books here : <a href="https://github.com/YashGajjar7017/OpenLibrary/">Search</a> Your books here
 <hr>
 
+More about this repo :
+|   Date   |  update  | Size |
+| -------- | -------- | -----|
+| 11-11-23 | update-1 | 12kb |
+| 15-11-23 | update-2 | 100Mb|
+| 30-11-23 | update-3 | 1GB  |
+| 1-12-23  | update-4 | 512MB|
+| 1-1-24   | update-5 | 24kb |
+
+<hr>
 Library opeing : 11-11-2023 <br>
 Last Update On : on Regular bases in month of feb only <br><hr>
 
