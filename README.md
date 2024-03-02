@@ -34,6 +34,8 @@ More about this repo :
 | 30-11-23 | update-3 | 1GB  |
 | 1-12-23  | update-4 | 512MB|
 | 1-1-24   | update-5 | 24kb |
+| 1-3-24   | update-6 | 2kb  |
+| 3-3-24   | update-7 | 2TB  | Last
 
 <hr>
 Library opeing : 11-11-2023 <br>
